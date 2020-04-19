@@ -45,7 +45,7 @@ export default class Introduction extends Component {
                                             <div className="slider-text-inner">
                                                 <div className="desc">
                                                     <h1>I often <br/>Write ... </h1>
-                                                    <p><a className="btn btn-primary btn-learn" href="https://medium.com/@dhruv.barochia34788" target="_blank" rel="noopener noreferrer">View Blog <i className="icon-book" /></a></p>
+                                                    <p><a className="btn btn-primary btn-learn" href="www.wordpress.com" target="_blank" rel="noopener noreferrer">View Blog <i className="icon-book" /></a></p>
                                                 </div>
                                             </div>
                                         </div>
