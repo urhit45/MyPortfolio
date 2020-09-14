@@ -9,8 +9,8 @@ class App extends Component {
     return (
       <div id="App">
         <Sidebar/>
-					<Introduction></Introduction>
-					<About></About>
+				<Introduction></Introduction>
+				<About></About>
       </div>
     );
   }
