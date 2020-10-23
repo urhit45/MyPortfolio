@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.d79f46c5.chunk.css",
+    "main.js": "/MyPortfolio/static/js/main.65cbdab6.chunk.js",
+    "main.js.map": "/MyPortfolio/static/js/main.65cbdab6.chunk.js.map",
+    "runtime-main.js": "/MyPortfolio/static/js/runtime-main.3e2257a3.js",
+    "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.3e2257a3.js.map",
+    "static/js/2.857881ec.chunk.js": "/MyPortfolio/static/js/2.857881ec.chunk.js",
+    "static/js/2.857881ec.chunk.js.map": "/MyPortfolio/static/js/2.857881ec.chunk.js.map",
+    "index.html": "/MyPortfolio/index.html",
+    "precache-manifest.1ea37872cc9ec9b7b849ce8d9f2be181.js": "/MyPortfolio/precache-manifest.1ea37872cc9ec9b7b849ce8d9f2be181.js",
+    "service-worker.js": "/MyPortfolio/service-worker.js",
+    "static/css/main.d79f46c5.chunk.css.map": "/MyPortfolio/static/css/main.d79f46c5.chunk.css.map",
+    "static/js/2.857881ec.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.857881ec.chunk.js.LICENSE.txt",
+    "static/media/Rohit_Upadhyay.pdf": "/MyPortfolio/static/media/Rohit_Upadhyay.e9861bf7.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e2257a3.js",
+    "static/js/2.857881ec.chunk.js",
+    "static/css/main.d79f46c5.chunk.css",
+    "static/js/main.65cbdab6.chunk.js"
+  ]
+}
