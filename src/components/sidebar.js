@@ -30,7 +30,7 @@ export default class Sidebar extends React.Component {
         return(
             <div>
                 
-                <Menu width="30%">
+                <Menu>
     
                     <div style={{textAlign:"center"}}>
                         <div className="author-img" style={{backgroundImage: 'url(images/auth_img.jpg)'}} />
