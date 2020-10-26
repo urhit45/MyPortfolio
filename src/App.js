@@ -6,6 +6,7 @@ import About from './components/about';
 import Expertise from './components/expertise';
 import Badges from './components/badges';
 import Project from './components/projects';
+import Contact from './components/contact';
 
 class App extends Component {
   render() {
@@ -17,6 +18,7 @@ class App extends Component {
         <Project></Project>
         <Expertise></Expertise>
         <Badges></Badges>
+        <Contact></Contact>
       </div>
     );
   }
