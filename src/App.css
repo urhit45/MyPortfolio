@@ -8,6 +8,10 @@ body {
   height: 100vh;
 }
 
+.heading-meta {
+  font-size: large;
+}
+
 #page-wrap {
   text-align: center;
   overflow: auto;
