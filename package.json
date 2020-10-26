@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "homepage": "https://urhit45.github.io/MyPortfolio",
+  "homepage": "https://urhit45.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,7 +19,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "predeploy": "npm run build",
-		"deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
