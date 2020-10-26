@@ -57,10 +57,11 @@ export default class Contact extends Component {
                                         </div>   
                                             
                                     </Form.Group>
-                                    <br/>
-                                    <Button disabled={!this.state.full_name || !this.state.email || !this.state.message} style={{float:"right", borderRadius:"25px"}} variant="primary" type="submit">
-                                        Submit
-                                    </Button>
+                                    <div className="col-md-12" style={{marginTop:"10px"}}>
+                                        <Button disabled={!this.state.full_name || !this.state.email || !this.state.message} style={{float:"right", borderRadius:"25px"}} variant="primary" type="submit">
+                                            Submit
+                                        </Button>
+                                    </div>
                                 </Form>
                             </div>
                         </div>
