@@ -17,6 +17,10 @@ body {
   overflow: auto;
 }
 
+.slides li{
+  background-image: url(../public/images/img_bg.jpg);
+}
+
 .bm-item {
   display: inline-block;
   text-decoration: none;

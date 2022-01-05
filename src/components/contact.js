@@ -22,7 +22,11 @@ export default class Contact extends Component {
     
     handleSubmit(e) {
         e.preventDefault();
-        console.log(this.state)
+        fetch('https://rv0sv8xis1.execute-api.us-east-1.amazonaws.com/Dev/send-email', { 
+            method: 'POST', 
+            mode: 'cors',
+            body: JSON.stringify(this.state)
+        })
     }
     render() {
         return(

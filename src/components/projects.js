@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import { Carousel,Card, Button } from 'react-bootstrap'
+import { Card } from 'react-bootstrap'
 
 
 export default class Project extends Component {
